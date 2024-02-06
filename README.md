@@ -16,16 +16,11 @@ Este es un proyecto sencillo en Python que utiliza recopila los precios de los i
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/adrianfl55/Precios_iPhone bash
+git clone https://github.com/adrianfl55/Precios_iPhone
 ```
 
 2. Muévete a tu directorio:
 ```bash
-cd tu-proyecto
-```
-
-3. Ejecuta el proyecto:
-```bash
-python main.py
+cd tu-directorio
 ```
 
