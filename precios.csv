@@ -1,0 +1,21 @@
+dispositivo;lanzamiento;precio_dolar;precio_euro;categoria
+iPhone 8;2017;699;809;Base
+iPhone X;2017;999;1159;Pro
+iPhone XR;2018;749;859;Base
+iPhone XS;2018;999;1159;Pro
+iPhone XS Max;2018;1099;1259;Pro Max
+iPhone 11;2019;699;809;Base
+iPhone 11 Pro;2019;999;1159;Pro
+iPhone 11 Pro Max;2019;1099;1259;Pro Max
+iPhone 12;2020;799;909;Base
+iphone 12 Pro;2020;999;1159;Pro
+iPhone 12 Pro Max;2020;1099;1259;Pro Max
+iPhone 13;2021;799;909;Base
+iPhone 13 Pro;2021;999;1159;Pro
+iPhone 13 Pro Max;2021;1099;1259;Pro Max
+iPhone 14;2022;799;1009;Base 
+iPhone 14 Pro ;2022;999;1319;Pro
+iPhone 14 Pro Max;2022;1099;1469;Pro Max
+iPhone 15;2023;799;959;Base
+iPhone 15 Pro;2023;999;1219;Pro
+iPhone 15 Pro Max;2023;1199;1469;Pro Max
