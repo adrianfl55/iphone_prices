@@ -15,11 +15,17 @@ Este es un proyecto sencillo en Python que utiliza recopila los precios de los i
 ## Uso
 
 1. Clona este repositorio:
-`git clone https://github.com/adrianfl55/Precios_iPhone`
+```bash
+git clone https://github.com/adrianfl55/Precios_iPhone bash
+```
 
-3. Muévete a tu directorio:
-`cd tu-proyecto`
+2. Muévete a tu directorio:
+```bash
+cd tu-proyecto
+```
 
 3. Ejecuta el proyecto:
-`python main.py`
+```bash
+python main.py
+```
 
