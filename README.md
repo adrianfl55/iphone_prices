@@ -1,25 +1,24 @@
-# Evolución de los precios del iPhone
+# iPhone Price Evolution
 
-## Descripción
+## Description
 
-Este es un proyecto sencillo en Python que utiliza recopila los precios de los iPhone desde que tienen Face ID (2017) y genera distintos gráficos que muestran su evolución a lo largo del tiempo.
+This is a simple Python project that collects the prices of iPhones since they introduced Face ID (2017) and generates various charts showing their evolution over time.
 
-## Requisitos
+## Requirements
 
-- Python 3.x instalado.
-- Bibliotecas necesarias (se pueden instalar usando `pip`):
+- Python 3.x installed.
+- Necessary libraries (can be installed using `pip`):
     - Chardet
     - Pandas
     - Matplotlib
 
-## Uso
+## Usage
 
-1. Clona este repositorio:
+1. Clone this repository:
 ```bash
-git clone https://github.com/adrianfl55/Precios_iPhone
-```
+git clone https://github.com/adrianfl55/iphone_prices
 
-2. Muévete a tu directorio:
+2. Move into your directory:
 ```bash
 cd tu-directorio
 ```
