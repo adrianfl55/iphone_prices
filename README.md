@@ -17,6 +17,7 @@ This is a simple Python project that collects the prices of iPhones since they i
 1. Clone this repository:
 ```bash
 git clone https://github.com/adrianfl55/iphone_prices
+```
 
 2. Move into your directory:
 ```bash
