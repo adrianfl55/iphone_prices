@@ -1,4 +1,4 @@
-dispositivo;lanzamiento;precio_dolar;precio_euro;categoria
+﻿dispositivo;lanzamiento;precio_dolar;precio_euro;categoria
 iPhone 8;2017;699;809;Base
 iPhone X;2017;999;1159;Pro
 iPhone XR;2018;749;859;Base
@@ -19,3 +19,6 @@ iPhone 14 Pro Max;2022;1099;1469;Pro Max
 iPhone 15;2023;799;959;Base
 iPhone 15 Pro;2023;999;1219;Pro
 iPhone 15 Pro Max;2023;1199;1469;Pro Max
+iPhone 16;2024;799;959;Base
+iPhone 16 Pro;2024;999;1219;Pro
+iPhone 16 Pro Max;2024;1199;1469;Pro Max
